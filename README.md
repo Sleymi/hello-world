@@ -1,2 +1,3 @@
 # hello-world
-My hello-world 
+
+Node + Angular js
